@@ -1,2 +1,4 @@
 # sort-typescript
-sorting algorithm for different data structures / typescript exercise
+sorting algorithm for different data structures
+
+typescript exercise
